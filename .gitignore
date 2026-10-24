@@ -1,0 +1,32 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Data Folders
+data/
+archive/
+*.pcap
+*.csv
+
+# Model Files & Large Binary Weights
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE / Editor Settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS / System Files
+.DS_Store
+Thumbs.db
